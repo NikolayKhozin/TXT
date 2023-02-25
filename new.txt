@@ -1,0 +1,10 @@
+First name: "Nikolay",
+
+last name: "Khozin",
+
+Age: 22,
+
+Pets: 1,
+
+Salary: 6500$.
+
